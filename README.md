@@ -1,1 +1,1 @@
-#IMX6ull-Pro daily study code 
+#IMX6ULL PRO 
